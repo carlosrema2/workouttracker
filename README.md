@@ -21,7 +21,7 @@ Add exercises to a previous workout plan.
 Add new exercises to a new workout plan.
 
 ## Link to Deployed App
-[Link to deployed app](https://fast-escarpment-82023.herokuapp.com/) 
+[Link to deployed app](https://workouttraker.herokuapp.com/) 
 (Click to open app)
 
 ## GitHub Repo:
